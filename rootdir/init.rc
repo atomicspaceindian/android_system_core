@@ -10,7 +10,7 @@ import /init.${ro.hardware}.rc
 import /init.trace.rc
 
 # Include vendor ramdisk
-import /init.pa.rc
+import /init.venture.rc
 
 on early-init
     # Set init and its forked children's oom_adj.
